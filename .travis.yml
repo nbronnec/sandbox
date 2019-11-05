@@ -6,9 +6,9 @@ go:
 - 1.12.7
 
 before_script:
-  - before.sh
+  - ./before.sh
 
 script:
-  - ci.sh
+  - ./ci.sh
   
  
