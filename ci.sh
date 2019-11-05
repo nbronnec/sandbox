@@ -2,4 +2,4 @@
 
 echo "CI Script" 
 
-exit 1 
+exit 0
